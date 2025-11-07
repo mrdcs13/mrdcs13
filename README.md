@@ -1,4 +1,89 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrdcs13/mrdcs13/main/banner.png" alt="Márcio Santos Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Márcio Santos</h1>
+<h3 align="center">⚙️ Systems & Cloud Engineering Enthusiast</h3>
+
+---
+
+### 🌍 About Me
+
+💼 Currently working as an **Electrical Infrastructure Technician** at Mota-Engil  
+🎯 Transitioning into **Systems Engineering and Cloud Infrastructure**  
+💻 Studying **Systems Engineering (EAD)** and pursuing certifications (Cisco, Fortinet, Obrizum)  
+📍 Based in Portugal  
+👨‍👧 Proud father, balancing family, work, and career growth  
+
+---
+
+### 🚀 Technical Focus
+
+- 🐧 **Linux System Administration** (Ubuntu, WSL2)
+- 🌐 **Networking** (IP, VLANs, Routing, Firewalls)
+- ☁️ **Cloud Infrastructure** (AWS, Linode, Virtualization)
+- ⚙️ **Automation** with Bash / Python
+- 🔒 **Security & Monitoring** Fundamentals
+
+---
+
+### 🎓 Certifications (in progress)
+
+- Cisco Networking Basics *(Cisco Skills for All)*  
+- Fortinet NSE 1–3 **  
+- Obrizum Cloud & AI Fundamentals **  
+
+---
+
+### 🧠 Current Learning Path
+
+📘 Building my **Technical Portfolio** with hands-on labs:  
+➡️ Linux fundamentals → Networking labs → Automation → Cloud projects  
+
+👉 Check my labs here: [**tech-portfolio**](https://github.com/teu-usuario/tech-portfolio)
+
+---
+
+### 🧰 Tech Stack
+
+| Category | Tools / Skills |
+|-----------|----------------|
+| **OS** | Ubuntu, Windows, WSL2 |
+| **Networking** | Cisco Packet Tracer, FortiGate, iproute2, net-tools |
+| **Cloud** | AWS (Free Tier), Linode, GCP (intro) |
+| **Scripting** | Bash, Python (basic) |
+| **Version Control** | Git & GitHub |
+| **Monitoring** | Uptime, System logs, htop, iftop |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=teu-usuario&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/márcio-d-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marcio.d.santos@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/teu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *“Technology changes fast — consistency and curiosity are the real superpowers.”*
 
 <!--
 **mrdcs13/mrdcs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
