@@ -32,7 +32,8 @@
 
 - Cisco Networking Basics *(Cisco Skills for All)*  
 - Fortinet NSE 1–3 **  
-- Obrizum Cloud & AI Fundamentals **  
+- Obrizum Cloud & AI Fundamentals **
+- Introduction to Linux (LFS101) *Completed* 
 
 ---
 
