@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrdcs13/mrdcs13/main/Banner.png" alt="Banner" width="50%" />
+  <img src="https://raw.githubusercontent.com/mrdcs13/mrdcs13/main/github_banner_marcio_santos.png" alt="Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Márcio Santos</h1>
