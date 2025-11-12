@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Márcio Santos</h1>
-<h3 align="center">⚙️ Systems & Cloud Engineering Enthusiast</h3>
+<h3 align="center">🛡️ Systems, Cloud & Security Automation Enthusiast</h3>
 
 ---
 
@@ -20,11 +20,13 @@
 
 ### 🚀 Technical Focus
 
-- 🐧 **Linux System Administration** (Ubuntu, WSL2)
-- 🌐 **Networking** (IP, VLANs, Routing, Firewalls)
-- ☁️ **Cloud Infrastructure** (AWS, Linode, Virtualization)
-- ⚙️ **Automation** with Bash / Python
-- 🔒 **Security & Monitoring** Fundamentals
+•🐧 Linux System Administration (Ubuntu, WSL2)
+•🌐 Networking & Firewalls (IP, DNS, SSH, VLANs)
+•🔒 Cybersecurity Fundamentals (Hardening, Vulnerability Scanning, SOC Basics)
+•☁️ Cloud Infrastructure (AWS, Linode, Virtualization)
+•⚙️ Automation & Configuration Management (Bash, Python basics, Ansible)
+
+
 
 ---
 
@@ -39,8 +41,7 @@
 
 ### 🧠 Current Learning Path
 
-📘 Building my **Technical Portfolio** with hands-on labs:  
-➡️ Linux fundamentals → Networking labs → Automation → Cloud projects  
+📘 Building my Technical Portfolio with hands-on labs: ➡️ Linux System Administration → Security Hardening & Automation (Ansible) → Cloud Infrastructure (IaC)
 
 👉 Check my labs here: [**tech-portfolio**](https://github.com/teu-usuario/tech-portfolio)
 
@@ -51,11 +52,12 @@
 | Category | Tools / Skills |
 |-----------|----------------|
 | **OS** | Ubuntu, Windows, WSL2 |
-| **Networking** | Cisco Packet Tracer, FortiGate, iproute2, net-tools |
-| **Cloud** | AWS (Free Tier), Linode, GCP (intro) |
-| **Scripting** | Bash, Python (basic) |
+| **Networking** | Cisco Packet Tracer, FortiGate, iproute2, net-tools,Nmao,Wireshark|
+| **Cloud** | AWS (Free Tier), Linode, GCP (intro), Terraform |
+| **Automation & CM** | Bash, Python (basic), Ansible |
+| **Security Labs**|TryHackMe, HackTheBox, UFW, Fail2Ban|
 | **Version Control** | Git & GitHub |
-| **Monitoring** | Uptime, System logs, htop, iftop |
+| **Monitoring** | Uptime, System logs, htop, iftop,Cloudwatch |
 
 ---
 
